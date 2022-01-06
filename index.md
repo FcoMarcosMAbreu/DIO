@@ -1,3 +1,17 @@
+# DIO
+
+## Digital Innovation One
+
+### [Marcos Abreu](https://github.com/FcoMarcosMAbreu)
+
+Welcome to my progress log. Here you will check what courses and bootcamps I am doing. You can join in to DIO [here](https://dio.me/sign-up?ref=HXNREWES41). All courses are free and you can get hired by a partner company.
+
+My site is being builded in Next.JS. Visit [MarcosAbreu.net](https://marcosabreu.net).
+
+See you soon!
+
+<--
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/FcoMarcosMAbreu/DIO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +49,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+-->
